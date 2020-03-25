@@ -1,6 +1,6 @@
 
 btnFaveExercises.onclick=function(){
-  ChangeForm(favExercises)
+  ChangeForm(ABfavExercises)
 }
 
 
