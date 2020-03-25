@@ -16,7 +16,7 @@
         "forms",
         "loginCU",
         "Elements",
-        "inptNetID.json"
+        "inpNetId.json"
       ]
     },
     {
@@ -26,6 +26,33 @@
         "loginCU",
         "Elements",
         "btnLogin.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loginCU",
+        "Elements",
+        "btnFavFoods.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loginCU",
+        "Elements",
+        "inpPassword.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "loginCU",
+        "Elements",
+        "lblResponse.json"
       ]
     }
   ],
